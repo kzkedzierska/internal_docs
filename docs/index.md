@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to Internal Documentation for OCTO AI
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello and welcome to the internal documentation for OCTO AI. Here we can collaboatively record the knowledge we acquire and share it with the rest of the team. This documentation is meant to be a living document that is updated as we learn new things and as our processes change.
 
-## Commands
+Currently the documentation is setup with Github Actions to automatically build and deploy the documentation to Github Pages. This means that any changes made to the documentation will be automatically reflected on the website.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This page is just a proof of concept and will be updated with more information as we go along.
