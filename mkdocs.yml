@@ -2,13 +2,13 @@ site_name: Internal documentation
 nav:
   - Home: index.md
   - Compute on AI2:
-    - 1. [Pre-requisites](compute-on-ai2/1-pre-requisites.md)
-    - 2. [Getting started](compute-on-ai2/2-getting-started.md)
-    - 3. [Running jobs](compute-on-ai2/3-running-jobs.md)
+      - 1. [Pre-requisites](compute-on-ai2/1-pre-requisites.md)
+      - 2. [Getting started](compute-on-ai2/2-getting-started.md)
+      - 3. [Running jobs](compute-on-ai2/3-running-jobs.md)
   - ML infra:
-    - 1. [Using Weights & Biases](ml-infra/1-using-wandb.md)
+      - 1. [Using Weights & Biases](ml-infra/1-using-wandb.md)
   - Resources:
-    - [Beaker dashboard](https://beaker.allen.ai/)
-    - [Beaker documentation](https://beaker-docs.apps.allenai.org/)
+      - "[Beaker dashboard](https://beaker.allen.ai/)"
+      - "[Beaker documentation](https://beaker-docs.apps.allenai.org/)"
 theme:
   name: material
